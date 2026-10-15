@@ -1,0 +1,32 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter / Colab checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment / secret files
+.env
+.env.*
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Trained model binaries
+models/*.pkl
+models/*.joblib
+models/*.zip
+
+# Optional local data folders
+data/
+raw_data/
+
+# Temporary files
+*.tmp
+*.temp
