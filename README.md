@@ -100,7 +100,7 @@ hit-song-predictor/
 │   └── random_forest_feature_importance.csv
 ├── models/
 │   ├── README.md
-│   └── hit_song_random_forest.pkl
+│   
 ├── README.md
 ├── requirements.txt
 └── .gitignore
